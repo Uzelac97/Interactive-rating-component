@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: https://uzelac97.github.io/Interactive-rating-component/
+- Live Site URL:
 
 ### Built with
 
